@@ -51,7 +51,7 @@
         <img class="contest_image" src="http://kodekloud.s3.amazonaws.com/sites/55085c056e6f642bbe000000/e797871f684ece9864f563d92f3be69c/contest.png" />
      <br>
      <div class="contest_form_div">
-           <p class="contest_description">Contest closes February 28th, 2015.   One entry per person.  Winner will be contacted via telephone.</p>
+           <p class="contest_description">One entry per person.  Winner will be contacted via telephone.</p>
 
          <form action="http://mobilefringe.createsend.com/t/d/s/irjkhk/" method="post" id="contest_form">
             <p style="display:none">
