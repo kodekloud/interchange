@@ -213,7 +213,7 @@
                 <div class="mobile_menu" style="display:none">
                     <ul>
                         <li><a href="/stores">Store Directory</a></li>
-                        <li><a href="/events">Events</a></li>
+                        <li><a href="/videos">Videos</a></li>
                         <li><a href="/promotions">Promotions</a></li>
                         <li><a href="#" onclick="javascript:toggle_submenu('leasing_dd');">Leasing <span class="caret"></span></a>
                             <div id="leasing_dd" class="submenu" style="display:none">
@@ -247,7 +247,7 @@
                                 
                             </ul> 
                          </li>
-                         <li id="event_link"><a href="/events">Events</a></li>
+                         <li id="event_link"><a href="/videos">Videos</a></li>
                          <li id="promotion_link"><a href="/promotions">Promotions</a></li>
                          <li id="leasing_link" class="dropdown"><a data-toggle="dropdown" class="dropdown-toggle">Leasing <span class="caret"></span></a>
                             <ul class="dropdown-menu">
@@ -398,7 +398,7 @@
                     <a href="/stores">Store Directory</a>
                 </li>
                 <li>
-                    <a href="/events">Events</a>
+                    <a href="/videos">Videos</a>
                 </li>
                 <li>
                     <a href="/promotions">Promotions</a>
