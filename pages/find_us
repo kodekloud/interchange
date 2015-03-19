@@ -12,7 +12,7 @@
     </div>
     <div class="inside_page_content">
         <div class="left_column">
-            <iframe class="gmap" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2880.2221533436136!2d-79.5320892!3d43.789003099999995!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882b2fb8e1c8dc99%3A0x153c1a04bfe12f9c!2s50+Interchange+Way%2C+Concord%2C+ON+L4K+5W3!5e0!3m2!1sen!2sca!4v1426772517151" style="border:0" title="Map">Directions</iframe>
+            <iframe class="gmap" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2880.2404599262727!2d-79.53046489999997!3d43.788623199999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882b2fb91dde0617%3A0x50c293fad85ac9bf!2s30+Interchange+Way%2C+Concord%2C+ON+L4K+5C3!5e0!3m2!1sen!2sca!4v1426798686395" style="border:0" title="Map">Directions</iframe>
         </div>
         <div class="right_column">
             <p class="right_column_header">centre information</p>
