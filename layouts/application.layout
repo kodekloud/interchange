@@ -191,7 +191,7 @@
          color:#f5e9d4 !important;
      }
      
-    .navbar a, .navbar-brand img{
+    .navbar-brand img{
         width:260px !important;     
     }
     @media (max-width: 767px) {
