@@ -177,7 +177,7 @@
     }
     
    .view_button {
-        background:#f8b52c !important;
+        background:#009de9 !important;
     }
     .right_column_header {
         color: #009de9 ;
