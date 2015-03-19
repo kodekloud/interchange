@@ -190,6 +190,10 @@
      .site-map-section a:hover {
          color:#f5e9d4 !important;
      }
+     
+    .navbar a, .navbar-brand img{
+        width:260px;     
+    }
     @media (max-width: 767px) {
         .main_window{
             width:100%;
