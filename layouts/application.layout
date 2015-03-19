@@ -192,7 +192,7 @@
      }
      
     .navbar a, .navbar-brand img{
-        width:260px;     
+        width:260px !important;     
     }
     @media (max-width: 767px) {
         .main_window{
