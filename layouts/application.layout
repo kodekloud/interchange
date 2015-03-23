@@ -175,7 +175,9 @@
         border-bottom:solid 1px #cccccc;
         padding-bottom:10px;
     }
-    
+    p input[type='image']{
+       width:100% !important;
+   }
    .view_button {
         background:#009de9 !important;
     }
